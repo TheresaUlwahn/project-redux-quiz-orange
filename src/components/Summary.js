@@ -24,7 +24,7 @@ export const Summary = () => {
           </div>
         </div>
       ))}
-      <div className="scoreContainer">Your score is: {amountCorrect.length}/{allAnswers.length}</div>
+      <div className="scoreContainer">Your score: {amountCorrect.length}/{allAnswers.length}</div>
     </>
   )
 

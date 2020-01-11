@@ -4,7 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
-  background-color: #6AB187;
+  background-color: #dbc1bc;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +24,9 @@ body {
 }
 
 .header {
-  background-color: #f4cc70;
+  background-color: #f9dfe6;
   text-align: center;
   width: 800px;
+  border-radius: 56%;
+  margin-top: 88px;
 }

@@ -1,6 +1,5 @@
 .summaryContainer {
-    background-color: #6AB187;
-    font-family: Roboto;
+    background-color: #dbc1bc;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -14,20 +13,23 @@ h2 {
 }
 
 span {
-    background-color: #F4CC70
+    background-color: #f9dfe6
 }
 
 .resultContainer {
-    background-color: #DE7a22;
+    background-color: #f9dfe6;
     display: flex;
     justify-content: space-around;
+    
 }
 
 .scoreContainer {
-    background-color: #F4CC70;
+    background-color: #f9e9bc;
     display: flex;
     justify-content: center;
     margin-top: 15px;
     font-size: 20px;
     padding: 15px;
+    border-radius: 50%;
+    font-weight: bold;
 }
