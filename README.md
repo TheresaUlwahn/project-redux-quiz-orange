@@ -2,6 +2,10 @@
 
 A quiz game using Redux with multiple choice questions made in a team
 
+## View it live
+
+https://mrsucodesproject14thequizgame.netlify.com/
+
 ## Questions asked and answered
 
 * How to interact with the store using selectors or by dispatching actions
@@ -15,6 +19,4 @@ A quiz game using Redux with multiple choice questions made in a team
 * When the user has answered all the questions, they get to a summary screen which tells them how many the got correct or incorrect.
 * Made use of redux by making small components which interact with the store.
 
-## View it live
 
-https://mrsucodesproject14thequizgame.netlify.com/
